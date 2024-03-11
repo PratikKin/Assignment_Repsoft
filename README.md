@@ -10,7 +10,7 @@ Images are added as per requirements.
 
 The font used in the whole app has "Poppins" as font family for the text used.
 
-The 'lib' folder contains two sub-directory named 'Components', 'Firebase_auth' and 'Pages'.
+The 'lib' folder contains three sub-directory named 'Components', 'Firebase_auth' and 'Pages'.
 
 The 'Components' folder contains the dart files which have repeatedly used components.
 
