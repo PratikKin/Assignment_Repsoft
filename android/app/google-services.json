@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "637676928676",
+    "project_id": "login-f706d",
+    "storage_bucket": "login-f706d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637676928676:android:5ca433454f2819081f7031",
+        "android_client_info": {
+          "package_name": "com.example.login_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfOAc9rcthR7-ehxlodwVkn2t1AgtD0xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
