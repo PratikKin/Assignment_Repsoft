@@ -23,7 +23,7 @@ Some of the elements shown in the sample or reference image were not taken as th
 
 Some of the elements are few icons, few pictures, and font family.
 
-How to use
+How to use =>
 To use the app the developer needs to run the app in android studio.
 
 The app can also be ran using 'flutter run'.
